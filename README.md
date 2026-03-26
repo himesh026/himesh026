@@ -7,7 +7,7 @@
 <!-- ⚡ TYPING -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;Data+Scientist;IIT+Jodhpur+Graduate;Building+Scalable+AI+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+Engineer;Data+Scientist;Building+Scalable+AI+Systems+🚀" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 + Full Stack Developer | AI Engineer | Data Scientist
 + Strong in Backend, AI Systems & Product Thinking
 + Building real-world AI apps, automation & tools
-+ Focus: LLMs, system design, scalable infra
++ Exploring LLMs, system design & agentic workflows
 ```
 
 ---
@@ -81,9 +81,9 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/himesh026/himesh026/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
