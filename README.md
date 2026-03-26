@@ -29,7 +29,7 @@
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
 </p>
 
 ### 🌐 Full Stack
@@ -54,36 +54,11 @@
 
 ---
 
-## 🚀 Featured Projects
-
-* 🔥 ResumeForge → AI-powered resume optimizer (ATS killer)
-* 🤖 AI Quiz Battle → real-time AI gameplay (n8n + agents)
-* 📸 Instagram Insight → track which image gets liked
-* 🧠 AI Coding Explainer → explains failed test cases automatically
-
----
-
-## 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Kalu026?theme=dark&font=Baloo&ext=heatmap" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himesh026&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himesh026&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himesh026&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
