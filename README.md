@@ -63,35 +63,11 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himesh026&theme=onestar&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himesh026&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himesh026&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
